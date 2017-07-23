@@ -1,0 +1,30 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "image search project on FCC",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.28",
+    "socket.io": "^0.9.17",
+    "body-parser": "^1.17.2",
+    "node-bing-api": "^3.2.2",
+    "bing.search": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisker112/imageSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisker112/imageSearch/issues"
+  },
+  "homepage": "https://github.com/fisker112/imageSearch#readme"
+}
